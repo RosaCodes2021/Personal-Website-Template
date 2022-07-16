@@ -14,5 +14,6 @@ A professional, fully functioning, and highly customizable personal website temp
 ### Installation Instructions
 
 #### 1. Download the project (either from Gumdrop or here from Github) 
-The website should work completely. You can test it out if you want to.
-#### 2. Clear the assets folder from all stock demo images, but keep one file: snow.jpg 
+The website should work completely. You can test it out if you want to by opening up index.html in any browser.
+#### 2. Clean up the assets folder
+Clear the assets folder from all stock demo images, but keep one file: snow.jpg 
