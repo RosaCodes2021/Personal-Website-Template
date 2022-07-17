@@ -23,7 +23,8 @@
 
 ### Installation Instructions
 
-#### 1. Download the project  (either from [Gumdrop](https://rosacodes.gumroad.com/l/personal-website-template) or here from Github) 
+#### 1. Download the project  
+Download the project. I would recommend you download it from [Gumdrop](https://rosacodes.gumroad.com/l/personal-website-template) since that folder does not contain extra files such as this README file. However, you can also download the code from this repo. 
 The website should **work completely**. I would recommend that you open it up in a code editor such as VSCode or Atom, and test it out by opening up index.html in any browser. You should then see the entire working demo copy.
 
 #### 2. Clean up the assets folder
