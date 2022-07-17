@@ -1,5 +1,5 @@
 # Personal-Website-Template
-A professional, fully functioning, and highly customizable personal website template.
+**A professional, fully functioning, and highly customizable personal website template.**
 <br>
 #### An entire description of the project can be found on [Gumroad](https://rosacodes.gumroad.com/l/personal-website-template)
 
@@ -62,9 +62,13 @@ Copy and paste these code blocks to delete or add any languages you speak.
 #### 8. Modify contact me section
 The last part before the code of the modals is the code for the contact me section. Be sure to change the image shown there, and change the links to your own email address, instagram account, and github account. 
 
+#### 9. Optional: add password protection
+If you want to add password protection to yours, visit this Github repository: [Protected Github Pages](https://github.com/chrissy-dev/protected-github-pages). It uses SHA1 hashes to protect your website.
+However, if you want to have anyone visit this website, definitely skip this step.
+
 ##### Your website should be completely done at this point!
 
-#### 9. Host
+#### 10. Host
 To host your new personal website, create an account at [Github](https://www.github.com). Then, create a new repository and call it "Personal Website". Either upload the code by committing it from your code editor, or simply upload the files. 
 
 Now that your project is online, go to the "Settings" tab and then the "Pages" tab. Finally, switch the Source from "none" to "main", and click "save". Wait a couple of minutes while it says "Your site is ready to be published", and refresh the page. Once the above box turns green and indicates that your site has been published, you are 100% done. Congrats on your new personal website!
@@ -73,6 +77,8 @@ If you want to host the website using a **different method**, that is completely
 
 ### Closing
 I hope that you find this project useful. Please let me know if you have any questions. You can find me at @rosacodes on Instagram, or by sending an email to dev@rosacodes.com. 
+
+Also, please let me know if you actually do end up using this project, I would love to see your new website!
 
 Just a little note, I won't be bug solving for anybody. You are getting the website in a fully working state, so as long as you follow the above instructions you should be just fine. 
 
@@ -85,11 +91,4 @@ Here are those packages and libraries:
 - Bootstrap was used for some the modals and image carousels
 - Font Awesome was used for some of the icons
 
-Have a good day!
-
-
-
-
-
-
-
+Have a nice day!
