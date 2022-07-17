@@ -75,6 +75,9 @@ Now that your project is online, go to the "Settings" tab and then the "Pages" t
 
 If you want to host the website using a **different method**, that is completely fine. However, if you have never done so, I would suggest Github pages since it is easy and free.
 
+### Future updates
+Go follow [Rosacodes](https://www.instagram.com/rosacodes) on Instagram in order to see any future updates. New sections will be added in the future, so tag along for that!
+
 ### Closing
 I hope that you find this project useful. Please let me know if you have any questions. You can find me at @rosacodes on Instagram, or by sending an email to dev@rosacodes.com. 
 
