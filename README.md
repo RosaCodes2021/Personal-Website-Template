@@ -11,6 +11,10 @@
 
 <br>
 
+### Demo Copy
+Want to see the website for yourself? Go to the [Demo Copy](https://rosacodes2021.github.io/Personal-Website-Template-Demo/).
+Note: the audio files are not currently connected, so those will not work. 
+
 ### Project Files Walkthrough
 
 | File/folder name   | Description |
