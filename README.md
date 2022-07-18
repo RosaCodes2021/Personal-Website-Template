@@ -95,4 +95,7 @@ Here are those packages and libraries:
 - Bootstrap was used for some the modals and image carousels
 - Font Awesome was used for some of the icons
 
+### License
+This code is released under the Apache 2.0 license.
+
 Have a nice day!
